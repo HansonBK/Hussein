@@ -1,0 +1,126 @@
+html{
+    background-image: url("/Project_1/Assets/IMG/95b1e4fb3fb549a28e4dc905e662f421.jpg");
+   
+}
+
+body{
+    padding-top: 20px;
+    height: 700px;
+    width: 1100px;
+    background-image: url("/Project_1/Assets/IMG/abstract.jpg");
+    margin: auto;
+    justify-content: center;
+    margin-top: 120px;  
+    border-radius: 20px;
+    
+    
+
+}
+
+header{
+    margin-top: 50px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    
+}
+
+
+
+
+
+
+
+.Email{
+    border-radius: 2px;
+    border-style: none;
+    height: 40px;
+    width: 300px;
+    margin: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-radius: 5px;
+
+}
+
+.Password{
+    border-radius: 2px;
+    border-style: none;
+    height: 40px;
+    width: 300px;
+    margin: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-radius: 5px;
+   
+}
+
+.Info{
+   text-align: center;
+    margin-top: 50px;
+
+}
+
+
+.buttons{
+    text-align: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    padding: 10px;
+
+    
+
+
+
+}
+
+.grid-item{
+    
+  
+    text-align: center;
+    
+}
+
+.Save{
+    color: rgb(255, 255, 255)
+}
+
+footer{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+
+a{
+    
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    margin-right: 10px;
+    fill: #fff;
+    border-radius: 15px;
+    
+
+}
+
+button{
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    
+    margin: 15px;
+}
